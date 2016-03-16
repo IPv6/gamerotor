@@ -1,4 +1,7 @@
 var en_strings_cmn = {
+	"News":"News",
+	"About":"About",
+	"FAQ":"FAQ",
 	"Your name":"Your name",
 	"Email":"Email",
 	"Password":"Password",
@@ -62,13 +65,13 @@ var en_strings_cmn = {
 	"Add bookmark manually Mac":"Press Control+D to bookmark this game.",
 	"Add social account here":"Register to save your progress",
 	
-	"REGISTRATION_TERMS":"Clicking 'Register' button,  you agree to the <a href='http://static.lumarnia.com/docs/uagr_en_psoglash.html' target='_blank'>Terms and conditions</a> and <a href='http://static.lumarnia.com/docs/uagr_en_konfidenc.html' target='_blank'>Privacy Policy</a>",
+	"REGISTRATION_TERMS":"Clicking 'Register' button,  you agree to the <a href='http://static.gamerotor.com/docs/uagr_en_psoglash.html' target='_blank'>Terms and conditions</a> and <a href='http://static.gamerotor.com/docs/uagr_en_konfidenc.html' target='_blank'>Privacy Policy</a>",
 	
-	"LEGAL_SITE_TERMS":"@2016 GAMEROTOR&nbsp;|&nbsp;<a href='http://static.lumarnia.com/docs/uagr_ru_psoglash.html' target='_blank'>Terms and conditions</a>&nbsp;|&nbsp;<a href='http://static.lumarnia.com/docs/uagr_ru_konfidenc.html' target='_blank'>Privacy Policy</a>&nbsp;|&nbsp;<a href='mailto:gamerotor@gmail.com?subject=GAMEROTOR+question'>Contacts</a>",
+	"LEGAL_SITE_TERMS":"@2016 GAMEROTOR&nbsp;|&nbsp;<a href='http://static.gamerotor.com/docs/uagr_ru_psoglash.html' target='_blank'>Terms and conditions</a>&nbsp;|&nbsp;<a href='http://static.gamerotor.com/docs/uagr_ru_konfidenc.html' target='_blank'>Privacy Policy</a>&nbsp;|&nbsp;<a href='mailto:gamerotor@gmail.com?subject=GAMEROTOR+question'>Contacts</a>",
 	
-	"REGISTRATION_TERMS_GMN":"Clicking 'Register' button,  you agree to the <a href='http://static.lumarnia.com/docs/uagr_en_psoglash.html' target='_blank'>Terms and conditions</a> and <a href='http://static.lumarnia.com/docs/uagr_en_konfidenc.html' target='_blank'>Privacy Policy</a>",
+	"REGISTRATION_TERMS_GMN":"Clicking 'Register' button,  you agree to the <a href='http://static.gamerotor.com/docs/uagr_en_psoglash.html' target='_blank'>Terms and conditions</a> and <a href='http://static.gamerotor.com/docs/uagr_en_konfidenc.html' target='_blank'>Privacy Policy</a>",
 	
-	"LEGAL_SITE_TERMS_GMN":"@2016 GAMANOID&nbsp;|&nbsp;<a href='http://static.lumarnia.com/docs/uagr_ru_psoglash.html' target='_blank'>Terms and conditions</a>&nbsp;|&nbsp;<a href='http://static.lumarnia.com/docs/uagr_ru_konfidenc.html' target='_blank'>Privacy Policy</a>&nbsp;|&nbsp;<a href='mailto:lumarnia@gamanoid.ru?subject=Lumarnia+question'>Contacts</a>",
+	"LEGAL_SITE_TERMS_GMN":"@2016 GAMANOID&nbsp;|&nbsp;<a href='http://static.gamerotor.com/docs/uagr_ru_psoglash.html' target='_blank'>Terms and conditions</a>&nbsp;|&nbsp;<a href='http://static.gamerotor.com/docs/uagr_ru_konfidenc.html' target='_blank'>Privacy Policy</a>&nbsp;|&nbsp;<a href='mailto:lumarnia@gamanoid.ru?subject=Lumarnia+question'>Contacts</a>",
 	
 	"RANDOM_NAMES":"Newcomer",
 	

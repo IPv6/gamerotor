@@ -89,8 +89,8 @@ xmlns:fb="http://ogp.me/ns/fb#"><!-- Обявление стандарта. Не
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://static.lumarnia.com/scripts/sites/jquery/jquery.storage.js"></script>
-<script type="text/javascript" src="http://static.lumarnia.com/scripts/sites/jquery/jquery.json-2.2.min.js"></script>
+<script type="text/javascript" src="http://static.gamerotor.com/scripts/sites/jquery/jquery.storage.js"></script>
+<script type="text/javascript" src="http://static.gamerotor.com/scripts/sites/jquery/jquery.json-2.2.min.js"></script>
 
 <title>GameRotor</title>
 <meta name="robots" content="index, follow" />
@@ -162,14 +162,14 @@ Please wait, establishing connection...
 	};
 	if(doIframetrick){
 		error_occured = "-1";
-		//$('#stupidiehack').prop("src","javascript:(function(){document.open();alert(\"lumarnia.com\");document.write('alert(2);');document.close();})();");
+		//$('#stupidiehack').prop("src","javascript:(function(){document.open();alert(\"gamerotor.com\");document.write('alert(2);');document.close();})();");
 		//window.parent.opener.postMessage(\"1\", \"*\");alert(3);
-		//document.domain=\"lumarnia.com\";
+		//document.domain=\"gamerotor.com\";
 		//unescape(\""+escape(msg)+"\")
 		var url_map = getQueryString();
 		var cb_url = unescape(url_map['ie9stub']);
 		if(cb_url && cb_url.length>0){
-			$('#stupidiehack').prop("src",cb_url+"?msg="+escape(msg));//"http://www.lumarnia.com/js/iframe_cb.html
+			$('#stupidiehack').prop("src",cb_url+"?msg="+escape(msg));//"http://www.gamerotor.com/js/iframe_cb.html
 		}
 	}
 	// Note: Window must be closed by calling window after postback is received

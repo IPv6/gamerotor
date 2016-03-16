@@ -1,4 +1,7 @@
 var ru_strings_cmn = {
+	"News":"Новости",
+	"About":"Об игре",
+	"FAQ":"FAQ",
 	"Your name":"Ваше имя",
 	"Email":"Email",
 	"Password":"Пароль",
@@ -62,11 +65,11 @@ var ru_strings_cmn = {
 	"Add bookmark manually Mac":"Нажмите Control+D чтобы добавить игру в закладки Вашего браузера.",
 	"Add social account here":"Зарегистрируйтесь, чтобы не потерять прогресс",
 	
-	"REGISTRATION_TERMS":"Нажимая кнопку 'Регистрация' вы принимаете условия <a href='http://static.lumarnia.com/docs/uagr_ru_psoglash.html' target='_blank'>Пользовательского соглашения</a> и <a href='http://static.lumarnia.com/docs/uagr_ru_konfidenc.html' target='_blank'>Положения о конфиденциальности</a>",
-	"LEGAL_SITE_TERMS":"@2016 GAMEROTOR&nbsp;|&nbsp;<a href='http://static.lumarnia.com/docs/uagr_ru_psoglash.html' target='_blank'>Cоглашениe</a>&nbsp;|&nbsp;<a href='http://static.lumarnia.com/docs/uagr_ru_konfidenc.html' target='_blank'>Конфиденциальность</a>&nbsp;|&nbsp;<a href='mailto:gamerotor@gmail.com?subject=GAMEROTOR+question'>Контакты</a>",
+	"REGISTRATION_TERMS":"Нажимая кнопку 'Регистрация' вы принимаете условия <a href='http://static.gamerotor.com/docs/uagr_ru_psoglash.html' target='_blank'>Пользовательского соглашения</a> и <a href='http://static.gamerotor.com/docs/uagr_ru_konfidenc.html' target='_blank'>Положения о конфиденциальности</a>",
+	"LEGAL_SITE_TERMS":"@2016 GAMEROTOR&nbsp;|&nbsp;<a href='http://static.gamerotor.com/docs/uagr_ru_psoglash.html' target='_blank'>Cоглашениe</a>&nbsp;|&nbsp;<a href='http://static.gamerotor.com/docs/uagr_ru_konfidenc.html' target='_blank'>Конфиденциальность</a>&nbsp;|&nbsp;<a href='mailto:gamerotor@gmail.com?subject=GAMEROTOR+question'>Контакты</a>",
 	
-	"REGISTRATION_TERMS_GMN":"Нажимая кнопку 'Регистрация' вы принимаете условия <a href='http://static.lumarnia.com/docs/uagr_ru_psoglash_gmn.html' target='_blank'>Пользовательского соглашения</a> и <a href='http://static.lumarnia.com/docs/uagr_ru_konfidenc_gmn.html' target='_blank'>Положения о конфиденциальности</a>",
-	"LEGAL_SITE_TERMS_GMN":"@2016 GAMANOID&nbsp;|&nbsp;<a href='http://static.lumarnia.com/docs/uagr_ru_psoglash_gmn.html' target='_blank'>Cоглашениe</a>&nbsp;|&nbsp;<a href='http://static.lumarnia.com/docs/uagr_ru_konfidenc_gmn.html' target='_blank'>Конфиденциальность</a>&nbsp;|&nbsp;<a href='mailto:lumarnia@gamanoid.ru?subject=Lumarnia+question'>Контакты</a>",
+	"REGISTRATION_TERMS_GMN":"Нажимая кнопку 'Регистрация' вы принимаете условия <a href='http://static.gamerotor.com/docs/uagr_ru_psoglash_gmn.html' target='_blank'>Пользовательского соглашения</a> и <a href='http://static.gamerotor.com/docs/uagr_ru_konfidenc_gmn.html' target='_blank'>Положения о конфиденциальности</a>",
+	"LEGAL_SITE_TERMS_GMN":"@2016 GAMANOID&nbsp;|&nbsp;<a href='http://static.gamerotor.com/docs/uagr_ru_psoglash_gmn.html' target='_blank'>Cоглашениe</a>&nbsp;|&nbsp;<a href='http://static.gamerotor.com/docs/uagr_ru_konfidenc_gmn.html' target='_blank'>Конфиденциальность</a>&nbsp;|&nbsp;<a href='mailto:lumarnia@gamanoid.ru?subject=Lumarnia+question'>Контакты</a>",
 	
 	"RANDOM_NAMES":"Новичек",
 	

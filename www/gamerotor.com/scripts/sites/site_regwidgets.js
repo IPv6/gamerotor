@@ -9,9 +9,9 @@ regwidgets.showScreenshotsLure = function(overloads){
 	var slides = overloads.slides;
 	
 	head.js("/css/box-slider.css","/css/shadowbox.css");
-	head.js("http://static.lumarnia.com/scripts/sites/jquery/jquery.box-slider.js"
-		,"http://static.lumarnia.com/scripts/sites/jquery/jquery.box-slider-fx-fade.js"
-		,"http://static.lumarnia.com/scripts/sites/jquery/shadowbox.js",function(){
+	head.js("http://static.gamerotor.com/scripts/sites/jquery/jquery.box-slider.js"
+		,"http://static.gamerotor.com/scripts/sites/jquery/jquery.box-slider-fx-fade.js"
+		,"http://static.gamerotor.com/scripts/sites/jquery/shadowbox.js",function(){
 		head.ready(function () {
 			$('#'+id_viewport_superroot).css('z-index',window.CONST_ZINDEX_LOGIN+100);
 			
